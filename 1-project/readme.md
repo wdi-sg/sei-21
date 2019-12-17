@@ -8,7 +8,7 @@ Everyone will get a chance to **be creative**, and work through some really **to
 
 **You will be working individually for this project**, but we'll be guiding you along the process and helping as you go. Show us what you've got!
 
-We will approve your project before you begin. Please prepare the [pre-project materials.](p1-project-exercise.md)
+We will approve your project before you begin. Please prepare the [pre-project materials.](pre-project-exercise.md)
 
 We will be doing a [soft launch](/soft-launch.md) two days before the project due date.
 

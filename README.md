@@ -4,7 +4,7 @@ class repo - software engineering immersive 21
 
 | Name | Project 1 | Project 2 | Project 3 | Project 4 |
 | ---- | --------- |---------- | --------- | --------- |
-|Angelica|
+|Angelica|[hiphop hangman](https://benjacoblee.github.io/hiphop-hangman/)
 |Benjamin|
 |Denny|
 |Eunice Lok|

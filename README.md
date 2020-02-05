@@ -13,7 +13,7 @@ class repo - software engineering immersive 21
 |Joyce Liow|[Whack a mole](http://www.joyceliow.com/Project_1/mole.html)/[REPO](https://github.com/joycemap/Project-Whack)|[Appointment Tracker](https://pacific-shore-10633.herokuapp.com/)/[REPO]
 |Joyce Paul|[Scissors Paper Stone](https://joyce-paul.github.io/Project_1-Game/)/[REPO](https://github.com/joyce-paul/Project_1-Game)|[My Library](https://mylibrary-ga-app.herokuapp.com/)/[REPO](https://github.com/joyce-paul/SEI-Project-2)
 |Rachelle|[Rachelle's Rapid Race](https://rachellesg.github.io/rachelles-rapid-race/)/[REPO](https://github.com/rachellesg/rachelles-rapid-race)|[somniō](http://rachelles-somnio.herokuapp.com/)/[REPO](https://github.com/rachellesg/somnio)|
-|Robert|[BlackJack](https://dazzling-blackjack.netlify.com/)/[REPO](https://github.com/Flashrob/Blackjack)|[app](link)/[REPO](link)|
+|Robert|[BlackJack](https://dazzling-blackjack.netlify.com/)/[REPO](https://github.com/Flashrob/Blackjack)|[U wan not?](https://u-wan-not.herokuapp.com/)/[REPO](https://github.com/Flashrob/u-wan-not)|
 |Safraz|[BlackJack](https://safrazhakamali.github.io/BlackJack/)/[REPO](https://github.com/SafrazHakamali/BlackJack)|[app](link)/[REPO](link)|
 |Samuel Tan|[Card Code](https://samtanfl.github.io/Card-Code/)[REPO](https://github.com/SamTanFL/Card-Code)|[Best Rest](https://best-rest.herokuapp.com/)/[REPO]
 |Samuel Huang|[Donuts](https://upieez.github.io/project-1-sei-21)/[REPO](https://github.com/upieez/project-1-sei-21)|[Lunch Leh](https://powerful-badlands-26853.herokuapp.com/)/[REPO]

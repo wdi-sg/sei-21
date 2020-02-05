@@ -15,7 +15,7 @@ class repo - software engineering immersive 21
 |Rachelle|[Rachelle's Rapid Race](https://rachellesg.github.io/rachelles-rapid-race/) / [REPO](https://github.com/rachellesg/rachelles-rapid-race)|[somniō](http://rachelles-somnio.herokuapp.com/) / [REPO](https://github.com/rachellesg/somnio)|
 |Robert|[BlackJack](https://dazzling-blackjack.netlify.com/) / [REPO](https://github.com/Flashrob/Blackjack)|[U wan not?](https://u-wan-not.herokuapp.com/) / [REPO](https://github.com/Flashrob/u-wan-not)|
 |Safraz|[BlackJack](https://safrazhakamali.github.io/BlackJack/) / [REPO](https://github.com/SafrazHakamali/BlackJack)|[app](link) / [REPO](link)|
-|Samuel Tan|[Card Code](https://samtanfl.github.io/Card-Code/) / [REPO](https://github.com/SamTanFL/Card-Code)|[Best Rest](https://best-rest.herokuapp.com/) / [REPO]
+|Samuel Tan|[Card Code](https://samtanfl.github.io/Card-Code/) / [REPO](https://github.com/SamTanFL/Card-Code)|[Best Rest](https://best-rest.herokuapp.com/) / [REPO](https://github.com/SamTanFL/BestRest)|
 |Samuel Huang|[Donuts](https://upieez.github.io/project-1-sei-21) / [REPO](https://github.com/upieez/project-1-sei-21)|[Lunch Leh](https://powerful-badlands-26853.herokuapp.com/) / [REPO](https://github.com/upieez/lunch-leh)|
 |Stuart|[Game](https://laustinspayce.github.io/game-project-1/) / [REPO](https://github.com/LaustinSpayce/game-project-1)|[Trivia Night](https://project-2-quiz.herokuapp.com/) / [REPO](https://github.com/LaustinSpayce/quiz-project-2)|
 |Kun|[Find Me](https://tsairenkun.github.io/Project_1/) / [REPO](https://github.com/TsaiRenkun/Project_1)|[app](link)/ [REPO](link)|

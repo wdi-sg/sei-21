@@ -19,5 +19,5 @@ class repo - software engineering immersive 21
 |Samuel Huang|[Donuts](https://upieez.github.io/project-1-sei-21) / [REPO](https://github.com/upieez/project-1-sei-21)|[Lunch Leh](https://powerful-badlands-26853.herokuapp.com/) / [REPO](https://github.com/upieez/lunch-leh)|
 |Stuart|[Game](https://laustinspayce.github.io/game-project-1/) / [REPO](https://github.com/LaustinSpayce/game-project-1)|[Trivia Night](https://project-2-quiz.herokuapp.com/) / [REPO](https://github.com/LaustinSpayce/quiz-project-2)|
 |Kun|[Find Me](https://tsairenkun.github.io/Project_1/) / [REPO](https://github.com/TsaiRenkun/Project_1)|[app](link)/ [REPO](link)|
-|Wei Zheng|[Match](https://weizheng1910.github.io/project1) / [REPO](https://github.com/weizheng1910/project1)|[app](link)/ [REPO](link)|
+|Wei Zheng|[Match](https://weizheng1910.github.io/project1) / [REPO](https://github.com/weizheng1910/project1)|[Projapp](https://pure-wildwood-44094.herokuapp.com/)/ [REPO](https://github.com/weizheng1910/project2)|
 |Zhen Kang|[Escape Room](https://lzhenkang.github.io/escape_mini_games_room/) / [REPO](https://github.com/lzhenkang/escape_mini_games_room)|[Expense Tracker](https://young-forest-33013.herokuapp.com/) / [REPO](https://github.com/lzhenkang/expense_tracker)|

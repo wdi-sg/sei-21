@@ -6,7 +6,6 @@ class repo - software engineering immersive 21
 | ---- | --------- |---------- | --------- | --------- |
 |Angelica|[game](https://angelferreros.github.io/project1-game/) / [REPO](https://github.com/AngelFerreros/project1-game)|[myVax](https://myvax-tracker.herokuapp.com/) / [REPO](https://github.com/AngelFerreros/project-2-myVax)|
 |Benjamin|[hiphop hangman](https://benjacoblee.github.io/hiphop-hangman/) / [REPO](https://github.com/benjacoblee/hiphop-hangman)|[Happy Hour Hangouts](https://happy-hour-hangouts.herokuapp.com/) / [REPO](https://github.com/benjacoblee/happy-hour-hangouts/)|
-|Denny|
 |Eunice Lok|[Guess the Word](https://prwhoeatsnonstop.github.io/guess-the-word-unit1-project/) / [REPO](https://github.com/prwhoeatsnonstop/guess-the-word-unit1-project)|[FlexSwim](https://flexswim.herokuapp.com/) / [REPO](https://github.com/prwhoeatsnonstop/ga-project2-FlexSwim)|
 |Hwee Chieh|[Eyedropper](https://hweechieh.github.io/eyedropper/) / [REPO](https://github.com/hweechieh/eyedropper.git)|[laze](https://morning-river-60847.herokuapp.com/) / [REPO](https://github.com/hweechieh/laze)|
 |Jessica|[Click the letter](https://jesst8.github.io/click_the_letters/) / [REPO](https://github.com/JessT8/click_the_letters)|[Movie-log](https://aqueous-waters-75512.herokuapp.com/movies/upcoming/1) / [REPO](https://github.com/JessT8/movie-log)|

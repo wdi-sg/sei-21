@@ -44,6 +44,13 @@ Your app should:
 ### Presentation
 Presentation day will consist of a short slide deck introducing the problem space of the project and how the app solves a problem for a user. Each person will have up to 3 minutes to present and demp their work. Q & A will follow.
 
+Your presentation should answer the following questions:
+
+- what is the project for
+- who is the project for
+- how does the project solve that problem for that person
+- what features does the project have to solve that problem for that person
+
 ## Work Strategies
 
 ### Motivations
